@@ -62,7 +62,7 @@ background-color: transparent;
 
 .ulmain li a {
   text-decoration: none;
-  color: white;
+  color: rgba(255, 255, 255, 0.765);
   font-weight: 400;
   background-color: transparent;
 }
